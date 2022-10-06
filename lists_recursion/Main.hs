@@ -84,7 +84,7 @@ main = do
   putStrLn("Func. 3: Entrada: 1234; Resultado: " ++ show (somaDigitos 1234))
   putStrLn("Func. 4: Entrada: 10; Resultado: " ++ show (somaMenoresQueX 10000))
   putStrLn("Func. 5: Entrada: [2,4,6]; Resultado: " ++ show (diferenca5 [2,4,6]))
-putStrLn ("Func. 6: entrada: 20; resultado: " ++ show(crivo (20)))
+  putStrLn ("Func. 6: entrada: 20; resultado: " ++ show(crivo (20)))
   putStrLn("Func. 7: Entrada: 3; Resultado: " ++ show (lucas 5))
   putStrLn("Func. 8: Entrada: [1,2,3]; Resultado: " ++ show (aoContrario [1,2,3]))
   putStrLn("Func. 9: Entrada: 3, 4; Resultado: " ++ show (somaRecursiva 3 4))
