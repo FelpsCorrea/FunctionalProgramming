@@ -1,3 +1,4 @@
+; FELIPE CORREA LOPES DOS SANTOS
 ; 1. Utilizando  a  linguagem  Clojure,  crie  uma  função  chamada  ultimo  que  receba  uma lista  e devolva o último elemento desta lista sem usar as funções já prontas e disponíveis para esta mesma finalidade na linguagem Clojure.
 
 (defn ultimo [lst]
