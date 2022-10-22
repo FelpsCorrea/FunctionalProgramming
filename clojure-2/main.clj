@@ -1,3 +1,5 @@
+; Felipe Correa Lopes dos Santos
+
 ; 1- Na aula disponível em: https://replit.com/@frankalcantara/ClojureAula2?v=1 foram destacadas diversas funções (expressões), como funções de primeira ordem, disponíveis em Clojure. Sua primeira tarefa será descrever cada uma destas funções e apresentar dois exemplos de uso de cada uma delas. Lembre-se os exemplos precisam ser utilizados de forma que o resutado da função possa ser visto no terminal.
 
 ; Funções de primeira ordem: sort, partition-by, filter, empty, count, char, assoc, dissoc, range, map, inc, odd, into, nth, conj
